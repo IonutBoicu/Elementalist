@@ -1,0 +1,101 @@
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.exe
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.FirstLookForm.resources
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ProfileForm.resources
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.Properties.Resources.resources
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.exe
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+C:\Documents and Settings\Nutu\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.MenuForm.resources
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.exe
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.exe
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.FirstLookForm.resources
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.MenuForm.resources
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ProfileForm.resources
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.Properties.Resources.resources
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.exe
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.exe
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.FirstLookForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.MenuForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ProfileForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.Properties.Resources.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.GameForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.PlayForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.LabForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ShopForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.exe
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.exe
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.FirstLookForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.GameForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.LabForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.MenuForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.PlayForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ProfileForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.Properties.Resources.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ShopForm.resources
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a - Copy\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Nutu\C#\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.GameOverForm.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.exe
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.exe
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.FirstLookForm.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.GameForm.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.GameOverForm.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.LabForm.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.MenuForm.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.PlayForm.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ProfileForm.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.Properties.Resources.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ShopForm.resources
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.exe
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.FirstLookForm.resources
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.GameForm.resources
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.GameOverForm.resources
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.LabForm.resources
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.MenuForm.resources
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.PlayForm.resources
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ProfileForm.resources
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.Properties.Resources.resources
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ShopForm.resources
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.exe
+C:\Users\Gaby\Desktop\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.exe
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.exe
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\bin\Debug\CIA Boicu Ionut clasa a XI-a.pdb
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.FirstLookForm.resources
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.GameForm.resources
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.GameOverForm.resources
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.LabForm.resources
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.MenuForm.resources
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.PlayForm.resources
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ProfileForm.resources
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.Properties.Resources.resources
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\CIA_Boicu_Ionut_clasa_a_XI_a.ShopForm.resources
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Nutu\CIA Boicu Ionut clasa a XI-a\CIA Boicu Ionut clasa a XI-a\obj\x86\Debug\GenerateResource.write.1.tlog
